@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - ⚡ Fun fact: I'm Mechanical Engineer graduate but at this moment I'm into learning programming...
 
-<div align="center">
+<div></br>
   <a href="https://github.com/lucasfnandos">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasfnandos&show_icons=true&theme=tokyonight" alt="stats">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfnandos&layout=compact&theme=tokyonight&card_width=60" alt="stats">
- </div>
+ </div></br>
   
  <div>
     <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">

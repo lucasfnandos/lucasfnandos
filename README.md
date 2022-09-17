@@ -6,7 +6,7 @@
 <div></br>
   <a href="https://github.com/lucasfnandos">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=lucasfnandos&show_icons=true&theme=tokyonight" alt="stats">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfnandos&layout=compact&theme=tokyonight&card_width=60" alt="stats">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfnandos&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&card_width=60" alt="stats">
  </div></br>
   
  <div>

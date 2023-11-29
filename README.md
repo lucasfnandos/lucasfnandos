@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas 😄
 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML and PHP.
 - ⚡ Fun fact: I'm Mechanical Engineer graduate but at this moment I'm into learning programming...
 
 <div></br>

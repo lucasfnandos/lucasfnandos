@@ -1,6 +1,6 @@
 ## Hi there, I'm Lucas 😄
 
-- 🌱 I’m currently learning HTML, PHP and JavaScript.
+- 🌱 I’m currently studing backend development with Node.js.
 - ⚡ Fun fact: I'm Mechanical Engineer graduate but at this moment I'm into learning programming...
 - 😎 Hobbies: In my free time I like to workout, read self-improvement books and go to a seaside walk.
 
